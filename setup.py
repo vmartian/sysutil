@@ -2,7 +2,7 @@ from setuptools import setup
 setup(
   name = 'sysutil',
   packages = ['sysutil'], # this must be the same as the name above
-  version = '0.2',
+  version = '0.4',  
   description = 'A lib for common methods used in project',
   author = 'Vivekanand Pandey',
   author_email = 'vivekanandpandey98@gmail.com',
